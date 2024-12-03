@@ -4,7 +4,7 @@
 ### Technical Skills: Linux, Kubernetes, Docker, AWS, Python, DevOps, CI/CD, Shell Scripting, Prometheus, Grafana
 
 ### Work Experience
-SRE @ NVIDIA
+**SRE @ NVIDIA (_Jan 2021 - Present_) **
 
 Cloud Operations Engineer @ AWS
 
@@ -15,4 +15,4 @@ Auto Alerts
 
 
 ### Education
-- B.E., ECE | Anna University (_April 2015_)
+- B.E., Electronics and communication | Anna University (_April 2015_)
